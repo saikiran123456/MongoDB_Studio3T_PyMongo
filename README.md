@@ -31,7 +31,6 @@ PyMongo CSV File Imports and can analyze data on top of pymongo commands
            3. MongoDB ATLAS Cloud (Integration with MongoDB Compass) connection string connection
            
 ----------------------------------------------------------------------------------------------------------
-NOTE: Please place all the files including the images in the same folder as the Notebook needs access to these images.
-<br>
-<br>
-For detailed instructions on how to get started on MongoDB, please refer to the articles on my website:
+**NOTE: Please place all the files including the images in the same folder as the Notebook needs access to these images.**
+
+**For detailed instructions on how to get started on MongoDB, please refer to the articles on my Medium website:**
