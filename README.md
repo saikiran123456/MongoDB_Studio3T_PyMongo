@@ -27,3 +27,8 @@ There are mainly 3 Folders in this repository:
      Like: 1. Querying JSON Documents
            2. Aggregate and Grouping
            3. MongoDB ATLAS Cloud (Integration with MongoDB Compass) connection string connection
+           
+           
+NOTE: Please place all the files including the images in the same folder as the Notebook needs access to these images.
+
+For detailed instructions on how to get started on PostgreSQL, please refer to the articles on my website:
