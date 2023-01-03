@@ -31,4 +31,4 @@ There are mainly 3 Folders in this repository:
            
 NOTE: Please place all the files including the images in the same folder as the Notebook needs access to these images.
 
-For detailed instructions on how to get started on PostgreSQL, please refer to the articles on my website:
+For detailed instructions on how to get started on MongoDB, please refer to the articles on my website:
